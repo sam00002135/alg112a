@@ -2,8 +2,8 @@ from datetime import datetime
 
 num = int(input('請輸入求第幾項費氏數列? '))
 
-# 初始的前兩個費波那契數列值
-a, b = 0, 1
+a = 0
+b = 1
 
 if num == 0:
     result = 0
