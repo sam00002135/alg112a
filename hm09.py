@@ -1,4 +1,4 @@
-
+#參考網路上的程式，再自己改寫
 def is_safe(board, row, col):
     # Check if there is a queen in the same row
     for i in range(col):
