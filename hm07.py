@@ -1,3 +1,4 @@
+#參考網路上的程式，再自己改寫
 from micrograd import Value
 
 def gradientDescent(f, params, eta=0.01, h=10000):
