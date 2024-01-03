@@ -1,3 +1,4 @@
+#用爬山演算法改寫
 def gradientDescent(f, p, eta=0.01, h=10000):
     params = p.copy()
     
